@@ -31312,7 +31312,7 @@ $1(a){this.a.aV().$0()
 this.b.cR()},
 $S:7}
 A.xB.prototype={
-P(a){return new A.rd(B.Bs,"AppRegin Suite",A.a5G(B.U,null,!0),!1,null)}}
+P(a){return new A.rd(B.Bs,"AppRegin Sute",A.a5G(B.U,null,!0),!1,null)}}
 A.A4.prototype={
 P(a){var s=null,r=A.aj0(s,s,new A.pb("assets/images/brick_wall.jpg",s,s))
 return new A.pi(new A.PP(),A.WS(B.eg,A.c([new A.uj(A.akj(0),B.az,!0,s,new A.Au(1,new A.qH(r,1/0,1/0,B.uD,s),s),s),new A.tm(A.aj4(!0,new A.hS(B.xp,new A.mb(new A.PQ(),new A.PR(),s,t.u4),s),!0),B.ao,s)],t.nA),B.hd),s,t.wD)}}
