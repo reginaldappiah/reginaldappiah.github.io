@@ -30165,7 +30165,7 @@ s=m===n?0:(A.a7(s,n,m)-n)/(m-n)*r
 o.AZ(new A.YL(n,m,!1,q,o.gKY(),r,s,B.tO))
 o=A.a1x(0,A.a3X(q,q,A.aeT(o)))
 s=t.nA
-return new A.r_(A.Ur(B.e3,A.b([o,A.a1x(0,new A.pt(A.af2(q,q,new A.l8("assets/images/brick_wall.jpg",q,q)),B.uv,q)),A.a1x(0,A.ot(q,A.dx(B.c.ar(127.5),B.m.a6()>>>16&255,B.m.a6()>>>8&255,B.m.a6()&255),q,q,q,q,q)),B.Di,A.wr(new A.m2(B.xi,new A.qZ(B.ea,B.nW,B.dt,B.bp,q,B.h9,q,0,A.b([new A.xC(1,B.iF,new A.wN(B.hs,B.nV,B.dt,B.aY,q,B.h9,q,0,A.b([B.LY,B.ty,B.Lk,B.ty,B.Ll,B.Fr,A.a4z(q,B.Kb,B.d5,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.Nz(),q,q,q)],s),q),q),B.tx,A.ot(q,q,B.uu,280,q,q,180),B.tx,A.ot(B.vO,q,new A.dt(B.ij,q,A.a3y(B.iq,2),q,q,q,B.aI),120,q,q,120)],s),q),q),q,q)],s),B.h_),q)}}
+return new A.r_(A.Ur(B.e3,A.b([o,A.a1x(0,new A.pt(A.af2(q,q,new A.l8("assets/images/brick_wall.jpg",q,q)),B.uv,q)),A.a1x(0,A.ot(q,A.dx(B.c.ar(127.5),B.m.a6()>>>16&255,B.m.a6()>>>8&255,B.m.a6()&255),q,q,q,q,q)),B.Di,A.wr(new A.m2(B.xi,new A.qZ(B.ea,B.nW,B.dt,B.bp,q,B.h9,q,0,A.b([new A.xC(1,B.iF,new A.wN(B.hs,B.nV,B.dt,B.aY,q,B.h9,q,0,A.b([B.LY,B.ty,B.Lk,B.ty,B.Ll,B.Fr,A.a4z(q,B.Ka,B.d5,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.Nz(),q,q,q)],s),q),q),B.tx,A.ot(q,q,B.uu,280,q,q,180),B.tx,A.ot(B.vO,q,new A.dt(B.ij,q,A.a3y(B.iq,2),q,q,q,B.aI),120,q,q,120)],s),q),q),q,q)],s),B.h_),q)}}
 A.Nz.prototype={
 $0(){},
 $S:0}
@@ -53687,8 +53687,8 @@ B.vJ=new A.GB()
 B.vN=new A.oc(null,null,null,null,null,null,null)
 B.im=new A.z(0.3843137254901961,1,1,1,B.f)
 B.Jg=new A.i(!0,B.im,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ka=new A.mv("\ud83c\udfa8 Cover Art",null,B.Jg,null,null)
-B.vO=new A.od(B.aa,null,null,B.Ka,null)
+B.Kb=new A.mv("\ud83c\udfa8 Cover Art2",null,B.Jg,null,null)
+B.vO=new A.od(B.aa,null,null,B.Kb,null)
 B.vP=new A.of(null,null,null,null,null,null,null,null,null)
 B.vQ=new A.og(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.vR=new A.dd(0,B.u)
@@ -55597,7 +55597,7 @@ B.Gj=new A.i(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.K9=new A.ch(B.HW,B.H_,B.HX,B.Iv,B.GE,B.GL,B.Hi,B.Ii,B.Hx,B.J0,B.G9,B.Gu,B.IX,B.Jf,B.Gj)
 B.wp=new A.z(0.5411764705882353,1,1,1,B.f)
 B.Jl=new A.i(!0,B.wp,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,B.tF,null,null,null,null,null,null,null,null)
-B.Kb=new A.mv("or continue as anonymous",null,B.Jl,null,null)
+B.Ka=new A.mv("or continue as anonymous",null,B.Jl,null,null)
 B.Ml=new A.Vu(0,"system")
 B.Kc=new A.rO(null)
 B.tN=new A.B3(3,"decal")
