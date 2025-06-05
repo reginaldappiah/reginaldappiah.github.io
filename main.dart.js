@@ -30506,7 +30506,7 @@ A.Y8.prototype={
 $0(){},
 $S:0}
 A.zJ.prototype={
-aZ(a,b){var s,r,q,p,o,n,m,l,k=Date.now()/150
+aZ(a,b){var s,r,q,p,o,n,m,l,k=Date.now()/30
 for(s=b.a/50,r=b.b,q=this.d,p=a.a.a,o=0;o<250;++o){n=B.h.aM(o,50)*s
 m=B.c.aM((o+k)*25,r)
 l=q.du()
