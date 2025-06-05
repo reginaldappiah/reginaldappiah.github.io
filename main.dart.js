@@ -30563,7 +30563,7 @@ A.Z3.prototype={
 $0(){},
 $S:0}
 A.zT.prototype={
-aR(a,b){var s,r,q,p,o,n,m,l,k=Date.now()/150
+aR(a,b){var s,r,q,p,o,n,m,l,k=Date.now()/10
 for(s=b.a/50,r=b.b,q=this.d,p=a.a.a,o=0;o<250;++o){n=B.h.aO(o,50)*s
 m=B.c.aO((o+k)*25,r)
 l=q.d5()
