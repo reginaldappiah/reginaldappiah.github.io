@@ -25856,7 +25856,7 @@ $1(a){this.a.bg().$0()
 this.b.cP()},
 $S:19}
 A.rv.prototype={
-a1(a){return new A.nn(B.tB,"AppRegin Sute",A.Uv(B.K,null,!0),!1,null)}}
+a1(a){return new A.nn(B.tB,"AppRegin Suite",A.Uv(B.K,null,!0),!1,null)}}
 A.tg.prototype={
 e9(a,b){return J.d(a,b)},
 cX(a){return J.j(a)}}
